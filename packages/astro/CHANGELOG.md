@@ -1,5 +1,11 @@
 # astro
 
+## 1.0.0-beta.23
+
+### Patch Changes
+
+- [#3278](https://github.com/withastro/astro/pull/3278) [`13c1f5ff`](https://github.com/withastro/astro/commit/13c1f5ff6bc18f05be2f9fee32331d89fc58af94) Thanks [@JuanM04](https://github.com/JuanM04)! - Internal: replaces `serialize-javascript` with `devalue`
+
 ## 1.0.0-beta.22
 
 ### Patch Changes
